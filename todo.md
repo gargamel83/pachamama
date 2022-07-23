@@ -1,0 +1,4 @@
+- find sensors
+- database structure
+- grafana's displays
+- vector api/appli
