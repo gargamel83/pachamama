@@ -1,0 +1,10 @@
+$ sudo su - postgres
+$ createuser farmer
+$ createdb  farming
+$ psql
+postgres=# alter user farmer with encrypted password 'farmer';
+postgres=# grant all privileges on database farming to farmer;
+
+
+db_name: farming
+db_user: farmer/farmer
