@@ -15,3 +15,13 @@
 - And last but not least, your garden with vector drawing
   - graphical display of the different types of sensors
   - graphical display of the different types of plants
+
+
+## Implementations
+First, it will be done as scripts to deploy, then, when I'll have time, a docker image will be available to deployement for easier maintenance. See *setup* folder for more details.
+
+## Technical requirements
+- Postgresql 14
+- Grafana
+- Python 3
+- Linux (will not be tested on Windows yet)
