@@ -4,8 +4,9 @@
 - Online calendar of planting, seeding, recolting, etc.
 - Sensors data display 
   - temperature
-  - hp
+  - humidity
   - air ventilation
+  - soil hp
   - etc
 - AI to help defining:
   - When to water your plants
