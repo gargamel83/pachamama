@@ -22,7 +22,7 @@
 First, it will be done as scripts to deploy, then, when I'll have time, a docker image will be available to deployement for easier maintenance. See *setup* folder for more details.
 
 ## Technical requirements
-- Postgresql 14
+- Postgresql 14 / sqlite3 (to be defined)
 - Grafana
 - Python 3
 - Linux (will not be tested on Windows yet)
